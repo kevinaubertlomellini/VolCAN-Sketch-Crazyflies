@@ -2,7 +2,7 @@
 import math
 import rx
 import rx.operators as ops
-import numpy as np
+import numpy as np 
 import matplotlib.pyplot as plt
 from skimage import measure 
 
