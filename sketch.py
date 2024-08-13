@@ -4,7 +4,7 @@ import rx
 import rx.operators as ops
 import numpy as np
 import matplotlib.pyplot as plt
-from skimage import measure
+from skimage import measure 
 
 from rx.subject import Subject, BehaviorSubject
 
